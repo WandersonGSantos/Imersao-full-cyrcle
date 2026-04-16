@@ -6,6 +6,6 @@ toolchain go1.26.2
 
 require (
 	github.com/confluentinc/confluent-kafka-go v1.9.2
-	github.com/confluentinc/confluent-kafka-go/v2 v2.14.0
+	github.com/confluentinc/confluent-kafka-go/v2 v2.14.1
 	github.com/joho/godotenv v1.5.1
 )
