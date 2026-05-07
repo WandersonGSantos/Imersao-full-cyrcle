@@ -2,7 +2,7 @@ module simulator
 
 go 1.24.3
 
-toolchain go1.26.2
+toolchain go1.26.3
 
 require (
 	github.com/confluentinc/confluent-kafka-go v1.9.2
